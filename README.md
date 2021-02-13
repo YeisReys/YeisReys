@@ -15,7 +15,7 @@
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
 <code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<code><img height="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZOndd5RhJVnfrLPzv87efFiOTfbClA2BEw&usqp=CAU"></code>
 
 
 ## 📫 How to Reach Me
