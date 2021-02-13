@@ -1,7 +1,7 @@
 ### Heyy Lady and Gentlemen 👋
 
 
-## 📌 GitHub Stats And Top Languages
+## 📌 My GitHub Stats And Top Languages
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=YeisReys&show_icons=true&count_private=true&hide=contribs,issues" alt="YeisReys's github stats" />
@@ -9,7 +9,7 @@
 </p>
 
 
-## 📚 Learning & Interested
+## 📚 Languages
 
 <code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
