@@ -14,7 +14,7 @@
 <code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+<code><img height="75" src="https://raw.githubusercontent.com/glucianog/glucianog/60f9d55b71ecaef617e00d745bb4eb738676e107/assets/icons/css3.svg"></code>
 <code><img height="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZOndd5RhJVnfrLPzv87efFiOTfbClA2BEw&usqp=CAU"></code>
 
 
