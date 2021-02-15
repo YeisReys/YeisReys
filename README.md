@@ -21,11 +21,3 @@
 ## 📫 How to Reach Me
 yeisreys@gmail.com 
 
-
-## ⚡ Fun Fact
-
-I love startup culture :)
-
-Even though I have a few sinking or not holding ideas, I will contribute to the startup culture without giving up, for a better world.
-
-### 🔭 Start-up companies that I actively support
