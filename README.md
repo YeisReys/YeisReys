@@ -11,8 +11,8 @@
 
 ## 📚 Languages
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
+<code><img height="75" src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png"></code>
 <code><img height="75" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/html5-logo.png"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZOndd5RhJVnfrLPzv87efFiOTfbClA2BEw&usqp=CAU"></code>
