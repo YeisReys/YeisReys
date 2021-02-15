@@ -13,7 +13,7 @@
 
 <code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://lh3.googleusercontent.com/proxy/NcWw6SkTfpnxy8r_CDVITk6ItxaUsiCeIN7HlYC_Rsr856aaT4r0W3bDJ5R0rmHnDHxHC95v8nSuHsjGlwphUxlk4ftqz0U-Ws1Ya-K8KTuXJHtEemMt5OO2sgUsvg"></code>
+<code><img height="75" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/04/html5-logo.png"></code>
 <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqZOndd5RhJVnfrLPzv87efFiOTfbClA2BEw&usqp=CAU"></code>
 
